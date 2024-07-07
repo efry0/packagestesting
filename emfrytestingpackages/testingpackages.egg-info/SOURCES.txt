@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+pandafry/__init__.py
+pandafry/pandafry.py
+testingpackages.egg-info/PKG-INFO
+testingpackages.egg-info/SOURCES.txt
+testingpackages.egg-info/dependency_links.txt
+testingpackages.egg-info/top_level.txt
+tests/__init__.py
+tests/test_pandafry.py
