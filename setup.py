@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="mypackage",
-    version="0.1.0",
+    version="0.2.0",
     author="Your Name",
     author_email="your.email@example.com",
     description="A brief description of your package",
